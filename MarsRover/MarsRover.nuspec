@@ -1,3 +1,13 @@
-<files>
-    <file src="bin\**\*.*" target="" /> 
-</files>
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>routedebugger</id>
+    <version>1.0.0</version>
+    <authors>Tamer Boncooglu</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mars Rover Project</description>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.dll" target="" />
+  </files>
+</package>
