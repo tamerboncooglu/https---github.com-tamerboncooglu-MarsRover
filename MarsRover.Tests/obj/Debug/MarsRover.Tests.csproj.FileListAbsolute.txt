@@ -1,0 +1,14 @@
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Tests.dll
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.Tests.pdb
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\obj\Debug\MarsRover.Tests.csprojResolveAssemblyReference.cache
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\obj\Debug\MarsRover.Tests.dll
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\obj\Debug\MarsRover.Tests.pdb
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.dll
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\MarsRover.Tests\bin\Debug\MarsRover.pdb
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\bin\Debug\MarsRover.Tests.dll
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\bin\Debug\MarsRover.Tests.pdb
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\bin\Debug\MarsRover.dll
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\bin\Debug\MarsRover.pdb
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\obj\Debug\MarsRover.Tests.csprojResolveAssemblyReference.cache
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\obj\Debug\MarsRover.Tests.dll
+D:\Users\tamer.boncooglu\Documents\Visual Studio 2013\Projects\MarsRover\https---github.com-tamerboncooglu-MarsRover.git\MarsRover.Tests\obj\Debug\MarsRover.Tests.pdb
